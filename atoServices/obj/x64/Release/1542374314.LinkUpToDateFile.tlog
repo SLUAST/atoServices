@@ -1,0 +1,1 @@
+g++ -o "/home/vigil/projects/atoServices/bin/x64/Release/atoServices.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/vigil/projects/atoServices/obj/x64/Release/HTTPServer.o /home/vigil/projects/atoServices/obj/x64/Release/LogHandler.o /home/vigil/projects/atoServices/obj/x64/Release/Source.o /home/vigil/projects/atoServices/obj/x64/Release/SysWrapper.o

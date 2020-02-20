@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{9c8d55c9-151d-442c-892a-71055a70c5b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{891f919f-a8ad-4a59-bc79-490af18c2ba0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HTTPServer.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="LogHandler.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HTTPServer.hpp">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="LogHandler.hpp">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  Validating sources
+  Copying sources remotely to 'dl200afweb01.ddc.teliasonera.net'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  HTTPServer.cpp
+C:\Users\shn693\source\repos\atoServices\HTTPServer\HTTPServer.cpp(20,30): error : ISO C++ forbids declaration of ‘SimpleHTTPServer’ with no type [-fpermissive]
+C:\Users\shn693\source\repos\atoServices\HTTPServer\HTTPServer.cpp(20,30): error : no ‘int HTTPServer::SimpleHTTPServer()’ member function declared in class ‘HTTPServer’
+C:\Users\shn693\source\repos\atoServices\HTTPServer\HTTPServer.cpp(28,30): error : expected class-name before ‘(’ token

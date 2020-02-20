@@ -1,0 +1,9 @@
+﻿  Validating sources
+  Copying sources remotely to 'dl200afweb01.ddc.teliasonera.net'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  Source.cpp
+  Linking objects
+  atoServices.vcxproj -> C:\Users\shn693\source\repos\atoServices\atoServices\bin\x64\Release\atoServices.out
